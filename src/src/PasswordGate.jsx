@@ -42,3 +42,4 @@ export default function PasswordGate({ children }) {
   );
 }
 Add PasswordGate component for access control
+
